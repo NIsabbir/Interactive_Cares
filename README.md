@@ -3,6 +3,7 @@
 3. php artisan ui:auth
 4.php artisan migrate
 5.php artisan db:seed --class=ProductsTableSeeder
+6.after migration and registration admin , go database and edit admin role. admin role is 1;
 
 
 
